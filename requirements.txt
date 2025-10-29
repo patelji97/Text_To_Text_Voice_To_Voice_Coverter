@@ -2,3 +2,5 @@ streamlit
 SpeechRecognition
 gtts
 pydub
+sounddevice
+
